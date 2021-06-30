@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "flRHRU8I2XM7O67rjVsIRPy15vw/HIwZfuKlKscbpt2sUfIQ8nHkYPtd6k0H6nC6l2VxYf0YwiuCAc9cBuiGcA==",
+  "dgSpecHash": "LBocxCXSlMCebpjF9mISZL9+pJxxD/kjxR3ctMT1/gexAK3lJszSWe/nLmcTxAl9MSGj5U3pHZLMVy5CA7TDEg==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\RiderProjects\\Notes\\Notes.Backend\\Notes.Application\\Notes.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0-preview.5.21301.9\\microsoft.entityframeworkcore.6.0.0-preview.5.21301.9.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0-preview.5.21301.9\\microsoft.entityframeworkcore.abstractions.6.0.0-preview.5.21301.9.nupkg.sha512",
