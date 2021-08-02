@@ -66,12 +66,13 @@ namespace Notes.Tests.Notes.Commands
 
             //Assert
             await Assert.ThrowsAsync<NotFoundException>(async () =>
-                await handler.Handle(
-                    new DeleteNoteCommand
-                    {
-                        Id = Guid.NewGuid(),
-                        UserId = NotesContextFactory.UserAId
-                    }, CancellationToken.None));
+                await deleteHandler.Handle(
+                new DeleteNoteCommand
+                {
+                    Id = noteId,
+                    UserId = NotesContextFactory.UserBId
+                }, CancellationToken.None));
+
         }
     }
 }
